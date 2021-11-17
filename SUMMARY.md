@@ -4,19 +4,21 @@
 
 ## Guides
 
-* [Creating your first project](guides/creating-your-first-project.md)
-* [Creating your first task](guides/creating-your-first-task.md)
+* [初次部署](guides/chu-ci-bu-shu.md)
+* [云端部署应用](guides/yun-duan-bu-shu-ying-yong.md)
+* [边端部署应用](guides/bian-duan-bu-shu-ying-yong.md)
 * [Advanced permissions](guides/advanced-permissions.md)
 
 ## Fundamentals
 
-* [Projects](fundamentals/projects.md)
+* [CMO接入MEC](fundamentals/cmo-jie-ru-mec.md)
 * [Members](fundamentals/members.md)
 * [Task Lists](fundamentals/task-lists.md)
 * [Tasks](fundamentals/tasks.md)
 
 ## Use Cases
 
+* [LECP边端创建虚拟机](use-cases/lecp-bian-duan-chuang-jian-xu-ni-ji.md)
 * [For Designers](use-cases/for-designers/README.md)
   * [Figma Integration](use-cases/for-designers/figma-integration.md)
 * [For Engineers](use-cases/for-engineers/README.md)
@@ -26,9 +28,10 @@
 
 ## Extras
 
-* [Keyboard Shortcuts](extras/keyboard-shortcuts.md)
+* [Keyboard Shortcuts](extras/keyboard-shortcuts/README.md)
+  * [Page 2](extras/keyboard-shortcuts/page-2.md)
+* [Page 1](extras/page-1.md)
 
 ***
 
-* [VoLTE introduce](volte-introduce.md)
-* [EPC核心网介绍](epc-he-xin-wang-jie-shao.md)
+* [LECP边端创建虚拟机](lecp-bian-duan-chuang-jian-xu-ni-ji.md)
