@@ -12,8 +12,8 @@
 ## Fundamentals
 
 * [CMO接入MEC](fundamentals/cmo-jie-ru-mec.md)
-* [Members](fundamentals/members.md)
-* [Task Lists](fundamentals/task-lists.md)
+* [边端应用上传](fundamentals/bian-duan-ying-yong-shang-chuan.md)
+* [边端应用部署](fundamentals/bian-duan-ying-yong-bu-shu.md)
 * [Tasks](fundamentals/tasks.md)
 
 ## Use Cases

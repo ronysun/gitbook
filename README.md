@@ -54,12 +54,12 @@ Learn the fundamentals of MyProduct to get a deeper understanding of our main fe
 [cmo-jie-ru-mec.md](fundamentals/cmo-jie-ru-mec.md)
 {% endcontent-ref %}
 
-{% content-ref url="fundamentals/members.md" %}
-[members.md](fundamentals/members.md)
+{% content-ref url="fundamentals/bian-duan-ying-yong-shang-chuan.md" %}
+[bian-duan-ying-yong-shang-chuan.md](fundamentals/bian-duan-ying-yong-shang-chuan.md)
 {% endcontent-ref %}
 
-{% content-ref url="fundamentals/task-lists.md" %}
-[task-lists.md](fundamentals/task-lists.md)
+{% content-ref url="fundamentals/bian-duan-ying-yong-bu-shu.md" %}
+[bian-duan-ying-yong-bu-shu.md](fundamentals/bian-duan-ying-yong-bu-shu.md)
 {% endcontent-ref %}
 
 {% content-ref url="fundamentals/tasks.md" %}
